@@ -1,0 +1,185 @@
+﻿  stdafx.cpp
+  UI.cpp
+d:\kyungil\20191206_준포폴\20191206_준포폴\object.h(51): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  boss.cpp
+d:\kyungil\20191206_준포폴\20191206_준포폴\object.h(51): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\boss.cpp(26): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\boss.cpp(59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\boss.cpp(253): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\boss.cpp(265): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  bullets.cpp
+d:\kyungil\20191206_준포폴\20191206_준포폴\bullets.cpp(85): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\bullets.cpp(107): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\bullets.cpp(122): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\bullets.cpp(138): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\bullets.cpp(156): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\bullets.cpp(395): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  chainSaw.cpp
+d:\kyungil\20191206_준포폴\20191206_준포폴\object.h(51): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\chainsaw.cpp(18): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  dron.cpp
+d:\kyungil\20191206_준포폴\20191206_준포폴\object.h(51): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\dron.cpp(35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  dronItem.cpp
+d:\kyungil\20191206_준포폴\20191206_준포폴\object.h(51): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\dronitem.cpp(6): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\dronitem.cpp(7): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\dronitem.cpp(11): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  dronManager.cpp
+d:\kyungil\20191206_준포폴\20191206_준포폴\object.h(51): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\dronmanager.cpp(61): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\dronmanager.cpp(109): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\dronmanager.cpp(155): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\dronmanager.cpp(161): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\dronmanager.cpp(173): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\dronmanager.cpp(182): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\dronmanager.cpp(188): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\dronmanager.cpp(199): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\dronmanager.cpp(211): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  effect.cpp
+d:\kyungil\20191206_준포폴\20191206_준포폴\object.h(51): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\effect.cpp(11): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\effect.cpp(12): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\effect.cpp(34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  effectManager.cpp
+d:\kyungil\20191206_준포폴\20191206_준포폴\object.h(51): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\effectmanager.cpp(23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  enemy.cpp
+d:\kyungil\20191206_준포폴\20191206_준포폴\object.h(51): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\enemy.cpp(25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\enemy.cpp(46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\enemy.cpp(72): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  enemyGreen.cpp
+d:\kyungil\20191206_준포폴\20191206_준포폴\object.h(51): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\enemygreen.cpp(15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  enemyManager.cpp
+d:\kyungil\20191206_준포폴\20191206_준포폴\object.h(51): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\enemymanager.cpp(69): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\enemymanager.cpp(183): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\enemymanager.cpp(182): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\enemymanager.cpp(186): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\enemymanager.cpp(185): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\enemymanager.cpp(191): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\enemymanager.cpp(190): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\enemymanager.cpp(225): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\enemymanager.cpp(265): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  gameExplanation.cpp
+  gameNode.cpp
+d:\kyungil\20191206_준포폴\20191206_준포폴\gamenode.cpp(93): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\gamenode.cpp(94): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  gameScene.cpp
+d:\kyungil\20191206_준포폴\20191206_준포폴\object.h(51): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  hpItem.cpp
+d:\kyungil\20191206_준포폴\20191206_준포폴\object.h(51): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\hpitem.cpp(6): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\hpitem.cpp(7): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\hpitem.cpp(11): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  image.cpp
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(277): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(276): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(290): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(440): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(447): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(632): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(640): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(641): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(667): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(666): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(694): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(702): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(703): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(717): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(716): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(746): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(745): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(767): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(775): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(776): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(802): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(801): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(829): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(838): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(839): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(864): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(863): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(892): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(901): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(902): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(916): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(915): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(944): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(943): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(972): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(981): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(982): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(995): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(994): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(1022): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\image.cpp(1021): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  imageManager.cpp
+  item.cpp
+d:\kyungil\20191206_준포폴\20191206_준포폴\object.h(51): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\item.cpp(34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  itemDropEnemy.cpp
+d:\kyungil\20191206_준포폴\20191206_준포폴\object.h(51): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\itemdropenemy.cpp(15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  itemManager.cpp
+d:\kyungil\20191206_준포폴\20191206_준포폴\object.h(51): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\itemmanager.cpp(74): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\itemmanager.cpp(83): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  keyManager.cpp
+  minion2.cpp
+d:\kyungil\20191206_준포폴\20191206_준포폴\object.h(51): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\minion2.cpp(30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  object.cpp
+d:\kyungil\20191206_준포폴\20191206_준포폴\object.h(51): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  player.cpp
+d:\kyungil\20191206_준포폴\20191206_준포폴\object.h(51): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\player.cpp(30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\player.cpp(63): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\player.cpp(79): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\player.cpp(92): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\player.cpp(119): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\player.cpp(125): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\player.cpp(133): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\player.cpp(134): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\player.cpp(137): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\player.cpp(138): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\player.cpp(139): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\player.cpp(160): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\player.cpp(166): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\player.cpp(176): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\player.cpp(182): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\player.cpp(192): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\player.cpp(200): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\player.cpp(211): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\player.cpp(219): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\player.cpp(230): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  powerItem.cpp
+d:\kyungil\20191206_준포폴\20191206_준포폴\object.h(51): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\poweritem.cpp(6): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\poweritem.cpp(7): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\poweritem.cpp(11): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  progressBar.cpp
+d:\kyungil\20191206_준포폴\20191206_준포폴\progressbar.cpp(19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\progressbar.cpp(25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\progressbar.cpp(39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\progressbar.cpp(47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\progressbar.cpp(53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\progressbar.cpp(52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  saveLoadTest.cpp
+  twoFire.cpp
+d:\kyungil\20191206_준포폴\20191206_준포폴\object.h(51): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\twofire.cpp(18): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\twofire.cpp(34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  txtData.cpp
+d:\kyungil\20191206_준포폴\20191206_준포폴\txtdata.cpp(47): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\kyungil\20191206_준포폴\20191206_준포폴\txtdata.cpp(51): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  utils.cpp
+  windowAPI.cpp
+d:\kyungil\20191206_준포폴\20191206_준포폴\object.h(51): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+d:\kyungil\20191206_준포폴\20191206_준포폴\txtdata.cpp(54): warning C4172: 지역 변수 또는 임시: str의 주소를 반환하고 있습니다.
+  windowAPI.vcxproj -> D:\Kyungil\20191206_준포폴\20191206_준포폴\Debug\windowAPI.exe

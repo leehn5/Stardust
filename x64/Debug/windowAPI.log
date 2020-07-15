@@ -1,0 +1,98 @@
+﻿  stdafx.cpp
+  bullets.cpp
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\bullets.cpp(39): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\bullets.cpp(44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\bullets.cpp(59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\bullets.cpp(140): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\bullets.cpp(157): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\bullets.cpp(226): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\bullets.cpp(239): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  enemy.cpp
+  enemyManager.cpp
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\enemymanager.cpp(83): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\enemymanager.cpp(82): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\enemymanager.cpp(81): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\enemymanager.cpp(80): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\enemymanager.cpp(105): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\enemymanager.cpp(104): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  gameNode.cpp
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\gamenode.cpp(92): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\gamenode.cpp(93): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  image.cpp
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(108): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(157): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(205): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(263): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(262): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(276): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(426): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(433): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(618): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(626): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(627): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(653): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(652): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(680): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(688): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(689): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(703): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(702): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(732): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(731): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(753): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(761): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(762): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(788): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(787): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(815): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(824): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(825): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(850): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(849): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(878): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(887): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(888): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(902): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(901): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(930): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(929): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(958): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(967): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(968): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(981): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(980): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(1008): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\image.cpp(1007): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  imageManager.cpp
+  keyManager.cpp
+  minion.cpp
+  minion2.cpp
+  playGround+collision.cpp
+  playGround.cpp
+  progressBar.cpp
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\progressbar.cpp(19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\progressbar.cpp(25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\progressbar.cpp(39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\progressbar.cpp(47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\progressbar.cpp(53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\progressbar.cpp(52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  saveLoadTest.cpp
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\saveloadtest.cpp(39): warning C4267: '인수': 'size_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\saveloadtest.cpp(56): warning C4267: '인수': 'size_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  spaceShip.cpp
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\spaceship.cpp(95): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\spaceship.cpp(96): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\spaceship.cpp(97): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\spaceship.cpp(98): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\spaceship.cpp(109): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\spaceship.cpp(110): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\spaceship.cpp(111): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\spaceship.cpp(112): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\spaceship.cpp(129): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  txtData.cpp
+  utils.cpp
+  windowAPI.cpp
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\windowapi.cpp(70): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+c:\users\kga-27\desktop\hyolim\알파프레임렌더_배효림 (2)\txtdata.cpp(54): warning C4172: 지역 변수 또는 임시: str의 주소를 반환하고 있습니다.
+  windowAPI.vcxproj -> C:\Users\KGA-27\Desktop\hyolim\알파프레임렌더_배효림 (2)\x64\Debug\windowAPI.exe
